@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "ECLYPSE1.aternos.me",
+    "port": 37015,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
+        "I'm a regular playe",
         "Subscribe to SoloPlayz!",
         "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
       ]
